@@ -1,4 +1,4 @@
-# :book: EduGPT - Your AI Instructor
+# :book: EduMentor - Your AI Instructor
 
 This repo demonstrates an implementation of an AI Instructor using LLMs.
 
